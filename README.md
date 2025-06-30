@@ -23,5 +23,34 @@
 - **AI/NLP APIs:** OpenAI API, Google Translate API
 - **Hosting:** Vercel (Frontend), Render (Backend)
 
-## 📁 Folder Structure
+
+## 🔗 Live Demo
+
+[https://smartchatx.vercel.app](https://smartchatx.vercel.app) – Coming soon!
+
+## 📸 Screenshots
+
+<!-- Add screenshots here once UI is ready -->
+
+## 🛠️ Setup Instructions
+
+1. Clone the repo:  
+   `git clone https://github.com/YourUsername/smartchatx`
+
+2. Install dependencies:
+   - `cd client && npm install`
+   - `cd server && npm install`
+
+3. Set up `.env` files for OpenAI keys and JWT
+
+4. Run both client and server
+
+## 📃 License
+
+This project is under the MIT License. Feel free to fork and contribute!
+
+---
+
+Let me know if you'd like a **starter folder template** (with basic client/server code ready) to get started quickly.
+
 
